@@ -1,5 +1,5 @@
 // simulation
-// Auteurs : Georg Schwabedal et Daniel Silva
+// Auteurs : Benjamin Bahurel et Daniel Silva
 
 
 #ifndef SIMULATION
@@ -77,5 +77,6 @@ class Simulation{
 	
 	
 #endif
+
 
 
