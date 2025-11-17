@@ -1,5 +1,5 @@
 // projet.cc
-// Auteurs : Georg Schwabedal et Daniel Silva
+// Auteurs : Benjamin Bahurel et Daniel Silva
 
 
 #include <iostream>
@@ -23,3 +23,4 @@ int main(int argc, char * argv[])
 	window.set_default_size(900, 900);
 
 return app->run(window);}
+
