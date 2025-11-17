@@ -1,5 +1,5 @@
 // robot.cc
-// Auteurs : Benjamin Bahurel et Daniel Silva
+// Auteurs : Benjamin Bahurel et  Matthieu Lavoix
 #include "robot.h"
 
 using namespace std;
@@ -602,6 +602,7 @@ void Communication :: deplacement_vers_but ()
 }
 
 //=========================================================Robot algos=================
+
 
 
 
