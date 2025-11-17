@@ -1,5 +1,5 @@
 // base.cc
-// Auteurs : Georg Schwabedal et Daniel Silva
+// Auteurs : Benjamin Bahurel et Daniel Silva
 
 #include "base.h"
 #include "constantes.h"
@@ -621,6 +621,7 @@ void Base::rec_DEF( shared_ptr <Base> B ,  shared_ptr <Robot> A )
 		}				
 	}
 }
+
 
 
 
