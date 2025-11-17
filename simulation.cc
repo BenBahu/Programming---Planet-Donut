@@ -1,5 +1,5 @@
 // simulation.cc
-// Auteurs : Benjamin Bahurel et Daniel Silva
+// Auteurs : Benjamin Bahurel et  Matthieu Lavoix
 
 #include <sstream>
 #include <fstream>
