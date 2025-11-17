@@ -1,5 +1,5 @@
 // geomod.h
-// Auteurs : Georg Schwabedal et Daniel Silva
+// Auteurs : Benjamin Bahurel et Daniel Silva
 
 
 #ifndef GEOMOD_H
@@ -85,3 +85,4 @@ class Cercle{
 	void normalisationGlobal(double& x3,double& y3);
 
 #endif
+
