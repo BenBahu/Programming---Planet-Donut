@@ -1,5 +1,5 @@
 // projet.cc
-// Auteurs : Georg Schwabedal et Daniel Silva
+// Auteurs : Benjamin Bahurel et Daniel Silva
 
 #include "gui.h"
 #include "graphic.h"
