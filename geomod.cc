@@ -1,5 +1,5 @@
 // geomod.cc
-// Auteurs : Benjamin Bahurel et Daniel Silva
+// Auteurs : Benjamin Bahurel et  Matthieu Lavoix
 
 #include <iostream>
 #include <array>
